@@ -1,0 +1,5 @@
+{
+  "name": "Cluedo-Kalpa TimesheetPro",
+  "description": "A streamlined timesheet logging and approval application for contractors, managers, and administrators. It facilitates the bi-weekly hours submission, manager approval, and invoicing workflow between Cluedo Tech and Kalpa Analytics.",
+  "requestFramePermissions": []
+}
